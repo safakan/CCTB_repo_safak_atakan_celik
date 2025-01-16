@@ -16,6 +16,24 @@ https://docs.google.com/document/d/1tXD6ZxYhBna0t5ZtuSsYsQz8Lx9SluFsw9cek5Jx8Wk/
 
 -- kit type calculation
 
+-- contracts and subscriptions merge? maybe in the future
+
+-- subscription contracts create deliveries with future dates.
+--- deliveries that match the trigger date trigger delivery agency to update delivery status
+-- 
+
+
+
+-- payment types
+--- subscription(already paid)
+
+-- customer table
+--- subscribed dinners per week
+--- subscribed dinners left
+
+
+--------------------------------------------------------
+
 - User Stories
 
 1.
