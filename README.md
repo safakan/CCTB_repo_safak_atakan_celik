@@ -1,4 +1,4 @@
-# CCTB_repo_priv
+# CCTB_repo_safak_atakan_celik
  
  1. Create Github account
  - www.github.com/safakan
@@ -11,6 +11,7 @@
 
 4. create a new notebook in google collab and write the very basic "Hello World" and save that to github in the repo you created in step 3.
 - https://colab.research.google.com/drive/1zQCAw6yfdnPAIUZ4j3SARK2IRWhFPI8g?authuser=0#scrollTo=clA8mWmnshK2
+- ./DEA113/class3ParticipationExercise.ipynb
 
 5. Take a snippet of Github repo, and upload here.
 - snippet uploaded to the participation exercise
