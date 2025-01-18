@@ -23,6 +23,9 @@ https://docs.google.com/document/d/1tXD6ZxYhBna0t5ZtuSsYsQz8Lx9SluFsw9cek5Jx8Wk/
 -- 
 
 
+-- user logins?
+
+
 
 -- payment types
 --- subscription(already paid)
