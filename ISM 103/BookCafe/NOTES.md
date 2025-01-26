@@ -7,7 +7,8 @@ msc notes
 - The composite key makes sure unique pairs within junction tables
 - Invoice ids are identical to the order ids -- this is how 1:1 rels formed here
 - there's too much manual parsing when documenting cardinalities
-
+- how to zip via powershell:
+    - Compress-Archive -Path '.\Assignment2' -DestinationPath '.\Assignment2.zip'
 
 
 
