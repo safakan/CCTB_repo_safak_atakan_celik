@@ -7,7 +7,7 @@ dbManager = dbManager()
 
 
 
-with open("queries/scheme.sql", "r") as file:
+with open("sql_queries/schema.sql", "r") as file:
     query_to_execute = file.read()
 
 ## OR
