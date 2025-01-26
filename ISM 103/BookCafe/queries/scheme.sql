@@ -133,9 +133,3 @@ CREATE TABLE IF NOT EXISTS deliveries (
     FOREIGN KEY (address_id) REFERENCES addresses(id) ON DELETE CASCADE
 );
 
-
--- CREATE INDEX idx_orders_customer_id ON orders(customer_id);
--- CREATE INDEX idx_orders_and_books_order_id ON orders_and_books(order_id);
--- CREATE INDEX idx_orders_and_books_book_id ON orders_and_books(book_id);
--- CREATE INDEX idx_deliveries_order_id ON deliveries(order_id);
--- CREATE INDEX idx_deliveries_address_id ON deliveries(address_id);
